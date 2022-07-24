@@ -1,6 +1,6 @@
 .search {
   &__container {
-    background-color: blue;
+    background-color: rgb(21, 255, 0);
   }
 
   &__form {
@@ -18,13 +18,13 @@
   }
 
   &__btn {
-    background-color: rgb(184, 192, 192);
+    background-color: rgb(114, 186, 139);
     height: 40px;
     border-radius: 5px;
     transition: 500ms;
     &:hover {
-      background-color: #ffffff;
-      color: rgb(17, 0, 255);
+      background-color: #0a9f45;
+      color: rgb(72, 67, 138);
     }
   }
 }
@@ -35,18 +35,16 @@
   justify-content: center;
 }
 .load {
-  // .load__more-btn
-
   &__more-btn {
     margin: auto;
     margin-top: 20px;
-    background-color: rgb(184, 192, 192);
+    background-color: rgb(114, 186, 139);
     height: 40px;
     border-radius: 5px;
     transition: 500ms;
     &:hover {
-      background-color: #ffffff;
-      color: rgb(17, 0, 255);
+      background-color: #0a9f45;
+      color: rgb(72, 67, 138);
     }
   }
 }

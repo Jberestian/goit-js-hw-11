@@ -7,7 +7,6 @@ export class PixibuyApi {
   constructor() {
     this.searchQuery = '';
     this.page = 1;
-    
   }
 
   fetchPhotos() {

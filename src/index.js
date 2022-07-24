@@ -2,7 +2,7 @@ import Notiflix from 'notiflix';
 import { PixibuyApi } from './js/pixabay-api';
 import SimpleLightbox from 'simplelightbox';
 import 'simplelightbox/dist/simple-lightbox.min.css';
-import './sass/form-input.scss';
+// import 'sass/_form-input.scss';
 // import axios from 'axios';
 
 const formEl = document.querySelector('.js-search-form');
